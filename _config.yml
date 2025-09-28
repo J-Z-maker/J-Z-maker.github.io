@@ -11,8 +11,8 @@ locale                   : "China"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "周杰"
+description              : &description "个人简介"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://J-Z-maker.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   pronouns         : 男
   location         : "河南省信阳市"
   employer         : "周口师范学院"
-  email            : "2149239202@qq.com
+  email            : "2149239202@qq.com"
   # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
